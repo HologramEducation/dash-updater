@@ -1,3 +1,9 @@
+# dash-updater
+
+An alternative to the Arduino IDE for updating user code and firmware
+
+Guide here: https://hologram.io/docs/guide/dash/programming-and-firmware#standalone-updater
+
 This directory contains everything for the Konekt updater script
 
 dashupdater.py is the actual script and the libs directory contains all
