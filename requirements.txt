@@ -1,0 +1,4 @@
+easygui==0.97.4
+hidapi==0.7.99.post20
+PyInstaller==3.2.1
+requests==2.13.0
